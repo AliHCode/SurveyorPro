@@ -34,7 +34,7 @@
 
 ### 🗺️ Interactive Map
 - **Grid View** — Local coordinate system with interactive pan/zoom
-- **World View** — OpenStreetMap overlay with real GPS positioning
+- **World View** — OpenStreetMap overlay with real GPS positioning and live location.
 - Point visualization with labels and color-coded types
 - DXF file overlay support for CAD linework
 - Fit-to-screen auto-zoom for all points
