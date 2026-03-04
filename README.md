@@ -22,7 +22,7 @@
 
 ## Overview
 
-**Surveyor Pro** is a full-featured mobile land surveying application built with Flutter, designed for professional surveyors and civil engineers. It provides real-time GPS tracking, point management, computation tools, field logging, and data import/export — all in a sleek, dark-themed interface optimized for outdoor field use.
+**Surveyor Pro** is a full-featured mobile land surveying application built with Flutter, designed for professional surveyors and civil engineers. It provides real-time GPS tracking, point management, computation tools, field logging, and data import/export — all in a sleek, dark-themed interface optimized for outdoor field use and every surveyor needs.
 
 ## Features
 
